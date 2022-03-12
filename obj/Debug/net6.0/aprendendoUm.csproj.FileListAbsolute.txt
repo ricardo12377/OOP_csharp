@@ -1,0 +1,15 @@
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\bin\Debug\net6.0\aprendendoUm.exe
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\bin\Debug\net6.0\aprendendoUm.deps.json
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\bin\Debug\net6.0\aprendendoUm.runtimeconfig.json
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\bin\Debug\net6.0\aprendendoUm.dll
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\bin\Debug\net6.0\aprendendoUm.pdb
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\aprendendoUm.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\aprendendoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\aprendendoUm.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\aprendendoUm.AssemblyInfo.cs
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\aprendendoUm.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\aprendendoUm.dll
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\refint\aprendendoUm.dll
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\aprendendoUm.pdb
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\aprendendoUm.genruntimeconfig.cache
+C:\Users\ricar\source\repos\aprendendoUm\aprendendoUm\obj\Debug\net6.0\ref\aprendendoUm.dll
